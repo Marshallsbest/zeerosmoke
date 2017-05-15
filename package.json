@@ -1,0 +1,22 @@
+{
+  "name": "gwtapp",
+  "version": "1.0.0",
+  "description": "Basic Webpage to show form feilds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marshallsbest/zeerosmoke.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marshallsbest/zeerosmoke/issues"
+  },
+  "homepage": "https://github.com/Marshallsbest/zeerosmoke#readme",
+  "dependencies": {
+    "material-components-web": "^0.10.0"
+  }
+}
